@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "serverless-offline": "^13.8.0"
+  },
+  "name": "ce6-sls-wang-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "2-thenable": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
